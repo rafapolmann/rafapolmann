@@ -1,4 +1,4 @@
-### Hi, my name's Rafael and I have +10-year experience in software development. I’ve passed through many steps in this career, from a junior to a tech lead.
+### Hi, my name's Rafael and I have +10-year experience in software development.
 <div align="center">
   <a href="https://github.com/rafapolmann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafapolmann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
